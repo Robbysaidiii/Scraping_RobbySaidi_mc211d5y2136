@@ -1,5 +1,0 @@
-*.pkl filter=lfs diff=lfs merge=lfs -text
-svm_model.pkl filter=lfs diff=lfs merge=lfs -text
-*svm.pkl filter=lfs diff=lfs merge=lfs -text
-*tfidf_svm.pkl filter=lfs diff=lfs merge=lfs -text
-*.h5 filter=lfs diff=lfs merge=lfs -text
